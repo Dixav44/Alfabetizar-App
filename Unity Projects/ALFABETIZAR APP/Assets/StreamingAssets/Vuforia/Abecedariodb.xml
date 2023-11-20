@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="tracker_nat_alt" size="0.100000 0.100000" />
+    <ImageTarget name="tracker_mio_alt" size="0.100000 0.100000" />
+    <ImageTarget name="nieque" size="0.100000 0.100000" />
+    <ImageTarget name="pez" size="0.100000 0.100000" />
+    <ImageTarget name="oso" size="0.100000 0.100000" />
+    <ImageTarget name="zapato" size="0.100000 0.100000" />
+    <ImageTarget name="yate" size="0.100000 0.100000" />
+    <ImageTarget name="xilofono" size="0.100000 0.100000" />
+    <ImageTarget name="woki" size="0.100000 0.100000" />
+    <ImageTarget name="violin" size="0.100000 0.100000" />
+    <ImageTarget name="uva" size="0.100000 0.125000" />
+    <ImageTarget name="tiburon" size="0.100000 0.100000" />
+    <ImageTarget name="semaforo" size="0.100000 0.100000" />
+    <ImageTarget name="robot" size="0.100000 0.100000" />
+    <ImageTarget name="queso" size="0.100000 0.100000" />
+    <ImageTarget name="niu" size="0.100000 0.100000" />
+    <ImageTarget name="nave" size="0.100000 0.100000" />
+    <ImageTarget name="manzana" size="0.100000 0.066667" />
+    <ImageTarget name="kiwi" size="0.100000 0.066667" />
+    <ImageTarget name="jarron" size="0.100000 0.066667" />
+    <ImageTarget name="isla" size="0.100000 0.066667" />
+    <ImageTarget name="guitarra" size="0.100000 0.066667" />
+    <ImageTarget name="cubo_rubik" size="0.100000 0.066667" />
+    <ImageTarget name="dragon" size="0.100000 0.100000" />
+    <ImageTarget name="espada" size="0.100000 0.088828" />
+    <ImageTarget name="fogata" size="0.100000 0.077175" />
+    <ImageTarget name="hipo" size="0.100000 0.075000" />
+    <ImageTarget name="burro" size="0.100000 0.150000" />
+    <ImageTarget name="lobo" size="0.100000 0.150000" />
+    <ImageTarget name="arania" size="0.100000 0.079375" />
+  </Tracking>
+</QCARConfig>
